@@ -1,0 +1,29 @@
+
+
+/* Cabeçalhos <h1> com uma fonte serifada tamanho 14 em preto */
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding: 10px
+}
+
+/* Estio de texto padrão em Arial 11 em preto */
+body, p, ul, li, a {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+}
+
+/* Barra de navegação (NavBar) com fundo branco e letras pretas */
+.navbar {
+    background-color: rgb(60, 189, 60);
+    color: rgb(231, 217, 217);
+}
+
+/* Cor de fundo e a cor do texto da navbar */
+.navbar {
+    background-color: #333; /* Cor de fundo escura */
+    color: rgb(66, 226, 66); /* Cor do texto  */
+}
